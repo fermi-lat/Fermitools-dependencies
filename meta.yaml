@@ -1,4 +1,4 @@
-{% set name = "fermitools-run-deps" %}
+{% set name = "fermitools-dependencies" %}
 {% set version = "1.0" %}
 
 package:
