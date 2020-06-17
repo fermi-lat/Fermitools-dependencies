@@ -10,6 +10,7 @@ source:
  
 build:
   number: {{ environ.get('BUILD_NUMBER', 0)}}
+  noarch: generic
 
 requirements:
   run:
