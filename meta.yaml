@@ -3,7 +3,7 @@
 
 package:
   name: {{ name|lower }}
-  version: {{ environ.get('version', 0)}}
+  version: {{ environ.get('VERSION', 0.0)}}
 
 # source:
 #   git_url: https://github.com/fermi-lat/Fermitools-dependencies.git
