@@ -17,19 +17,23 @@ requirements:
     - aplpy
     - astropy
     - blas
-    - clhep
+    - clhep 
     - cppunit
-    - f2c 0.0.2.*
-    - fermitools-data
+    - f2c 0.0.2
     - fftw
+    - fermitools-data
     - gsl
     - healpix_cxx
     - matplotlib
-    - numpy >=1.11
+    - ncurses
+    - numpy  >=1.17
+    - openblas
     - pmw
-    - python 2.7
+    - python 3.7.*
     - pyyaml
-    - root >=6.0
+    - readline
+    - root 6.22.*
     - scipy
-    - wcslib <6
+    - wcslib 5.*
     - xerces-c
+    - zstd 
