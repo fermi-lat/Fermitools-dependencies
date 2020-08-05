@@ -27,9 +27,9 @@ requirements:
     - matplotlib
     - numpy >=1.11
     - pmw
-    - python 2.7
+    - python 2.7.*
     - pyyaml
-    - root >=6.0
+    - root 6.22.*
     - scipy
     - wcslib <6
     - xerces-c
