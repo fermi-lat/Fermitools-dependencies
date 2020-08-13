@@ -13,23 +13,24 @@ build:
 
 requirements:
   run:
-    - ape >=3
-    - aplpy
-    - astropy
-    - blas
-    - clhep
+    - ape 3.0.*
+    - aplpy 1.1.*
+    - astropy 2.0.9.*
+    - blas 2.17.*
+    - clhep 2.4.1.*
     - cppunit
+    - cppunit 1.15.1.*
     - f2c 0.0.2.*
     - fermitools-data
-    - fftw
-    - gsl
-    - healpix_cxx
-    - matplotlib
-    - numpy >=1.11
-    - pmw
+    - fftw 3.3.8.*
+    - gsl 2.6.*
+    - healpix_cxx 3.31.*
+    - matplotlib 2.2.5.*
+    - numpy 1.16.*
+    - pmw 2.0.*
     - python 2.7.*
     - pyyaml
-    - root 6.22.*
-    - scipy
-    - wcslib <6
-    - xerces-c
+    - root 6.22.0.*
+    - scipy 1.2.1.*
+    - wcslib 5.20.*
+    - xerces-c 3.2.3.*
