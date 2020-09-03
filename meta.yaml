@@ -14,8 +14,8 @@ build:
 requirements:
   run:
     - ape >=3
-    - aplpy <4
-    - astropy
+    - aplpy
+    - astropy <4
     - blas
     - clhep 
     - cppunit
