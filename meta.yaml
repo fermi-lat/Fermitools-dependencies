@@ -32,7 +32,6 @@ requirements:
     - python 3.7.*
     - pyyaml
     - readline
-    - root 6.22.*
     - scipy
     - wcslib 5.*
     - xerces-c
