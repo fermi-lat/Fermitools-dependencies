@@ -24,6 +24,7 @@ requirements:
     - gsl
     - healpix_cxx
     - matplotlib
+    - minuit2
     - ncurses
     - numpy  >=1.17
     - openblas
