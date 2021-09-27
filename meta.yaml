@@ -12,7 +12,7 @@ build:
   number: {{ environ.get('BUILD_NUMBER', 0)}}
 
 requirements:
-  run:
+  host:
     - ape >=3
     - aplpy
     - astropy
